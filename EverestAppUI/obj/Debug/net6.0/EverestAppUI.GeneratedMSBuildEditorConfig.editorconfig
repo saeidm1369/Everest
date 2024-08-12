@@ -1,0 +1,331 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EverestAppUI
+build_property.RootNamespace = EverestAppUI
+build_property.ProjectDir = F:\Programing\TorismProject\Tourism\Everest\EverestAppUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Programing\TorismProject\Tourism\Everest\EverestAppUI
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Admin/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQ3JlYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Admin/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Admin/GetPagedList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cR2V0UGFnZWRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Course/AddCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291cnNlXEFkZENvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Course/EditCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291cnNlXEVkaXRDb3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Course/GetPagedList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291cnNlXEdldFBhZ2VkTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Journal/AddJournal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSm91cm5hbFxBZGRKb3VybmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Journal/EditJournal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSm91cm5hbFxFZGl0Sm91cm5hbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Journal/GetPagedList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSm91cm5hbFxHZXRQYWdlZExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Prog/AddProg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZ1xBZGRQcm9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Prog/EditProg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZ1xFZGl0UHJvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Prog/GetPagedList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZ1xHZXRQYWdlZExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Report/AddReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwb3J0XEFkZFJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Report/EditReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwb3J0XEVkaXRSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Report/GetPagedList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwb3J0XEdldFBhZ2VkTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Role/AddRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxBZGRSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Role/EditRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxFZGl0Um9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Shared/_AdminContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkNvbnRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Shared/_AdminFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Shared/_AdminMenubar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbk1lbnViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/Shared/_AdminNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbk5hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/Home/EditUserInformation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xIb21lXEVkaXRVc2VySW5mb3JtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/Home/GetUserCourses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xIb21lXEdldFVzZXJDb3Vyc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/Home/GetUserProgs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xIb21lXEdldFVzZXJQcm9ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/Home/RemoveCourseUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xIb21lXFJlbW92ZUNvdXJzZVVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/Home/RemoveProgUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xIb21lXFJlbW92ZVByb2dVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/Shared/_Meta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX01ldGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/Shared/_UserContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX1VzZXJDb250ZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/Shared/_UserFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX1VzZXJGb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX1VzZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/Shared/_UserMenubar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX1VzZXJNZW51YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/Shared/_UserNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX1VzZXJOYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Areas/User/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Home/AddCourseToUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRDb3Vyc2VUb1VzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Home/AddProgToUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRQcm9nVG9Vc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Home/CourseDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3Vyc2VEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Home/GetReportList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRSZXBvcnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Home/JournalDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKb3VybmFsRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Home/ProgDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9nRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Home/ReportDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXBvcnREZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Home/ShowJournalList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93Sm91cm5hbExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Home/ShowMoreCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93TW9yZUNvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Home/ShowMoreProgs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93TW9yZVByb2dzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/Components/CourseListComponent/CourseList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ291cnNlTGlzdENvbXBvbmVudFxDb3Vyc2VMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/Components/ProgListComponent/ProgList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZ0xpc3RDb21wb25lbnRcUHJvZ0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_ActiveEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY3RpdmVFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_Course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_DefaultLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZWZhdWx0TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_Journal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Kb3VybmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_Meta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_Script.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JpcHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_Spinner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TcGlubmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_Team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/User/ActiveAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBY3RpdmVBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/User/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/User/LoginPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpblBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/User/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/User/SuccessRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTdWNjZXNzUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Programing/TorismProject/Tourism/Everest/EverestAppUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

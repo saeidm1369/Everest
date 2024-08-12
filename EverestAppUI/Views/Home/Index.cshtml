@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<body dir="rtl">
+    <div class="container-fluid bg-white p-0 ">
+        <!-- Start Spinner  -->
+        @Html.Partial("_Spinner")
+        <!-- End Spinner -->
+
+        <!-- Start Header -->
+        @Html.Partial("_Header")
+        <!-- End Header -->
+
+        <!-- Start courses -->
+        @await Component.InvokeAsync("CourseListComponent")
+        <!-- End courses -->
+
+        <!-- Start courses -->
+        @await Component.InvokeAsync("ProgListComponent")
+        <!-- End courses -->
+
+        <!-- Start Journal -->
+        @Html.Partial("_Journal")
+        <!-- Start Journal -->
+        
+        <!-- Start Team -->
+        @Html.Partial("_Team")
+        <!-- End Team -->
+        
+        <!-- start Contact -->
+        @Html.Partial("_Contact")
+        <!-- end Contact -->
+
+        <!-- Start Back to Top -->
+        <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top">
+            <i class="bi bi-arrow-up"></i>
+        </a>
+        <!-- End Back to Top -->
+
+</body>
+
+</html>

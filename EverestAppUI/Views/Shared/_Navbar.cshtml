@@ -1,0 +1,38 @@
+﻿<!-- start navbar -->
+<nav class="navbar">
+    <img class="img-fluid" src="./img/Logo.jpg" alt="آیکون" style="width: 80px; height: 50px;">
+    <div>حساب کاربری: <strong>@((@ViewBag.FullName != null)? $"{@ViewBag.FullName}" : $"{@ViewBag.Username}")</strong></div>
+    <ul class="nav-links">
+        <li><a asp-controller="Home" asp-action="Index" class="active">صفحه اصلی</a></li>
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle">دسته بندی <i class="bi"></i></a>
+            <ul class="dropdown-menu">
+                <li><a asp-action="ShowMoreProgs">برنامه‌ها</a></li>
+                <li><a asp-action="ShowMoreCourse">دوره‌ها</a></li>
+            </ul>
+        </li>
+        <li><a asp-action="GetReportList">گزارش ها</a></li>
+        <li><a asp-action="ShowJournalList">مجله باشگاه</a></li>
+        <li><a href="#">تماس با ما</a></li>
+        <li><a href="#">درباره باشگاه</a></li>
+        <li><a asp-area="User" asp-controller="Home" asp-action="Index" class="active">پنل کاربری</a></li>
+        <i id="reservationIcon" class="bi bi-wallet-fill mx-3 fa-2x"></i>
+
+        @if (User.Identity.IsAuthenticated)
+        {
+            <a asp-controller="User" asp-action="Logout" class="btn btn-primary BTN-PANEL">خروج</a>
+        }
+        else
+        {
+            <a asp-controller="User" asp-action="LoginPage" class="btn btn-primary BTN-PANEL">ورود</a>
+            <a asp-controller="User" asp-action="Register" class="btn btn-primary BTN-PANEL">ثبت نام</a>
+        }
+        
+    </ul>
+    <div class="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</nav>
+<!-- end navbar -->

@@ -1,0 +1,49 @@
+﻿<!-- JavaScript Libraries -->
+<script src="/Js/bootstrap.bundle.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/lib/wow/wow.js"></script>
+<script src="/lib/easing/easing.min.js"></script>
+<script src="/lib/waypoints/waypoints.min.js"></script>
+<script src="/lib/owlcarousel/owl.carousel.min.js"></script>
+
+
+<!-- Template Javascript -->
+<script src="/js/main.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $(".toggle-password").click(function() {
+            $(this).toggleClass("fa-eye fa-eye-slash");
+            var input = $($(this).attr("toggle"));
+            if (input.attr("type") == "password") {
+                input.attr("type", "text");
+            } else {
+                input.attr("type", "password");
+            }
+        });
+    });
+
+        function toggleSidebar() {
+            var sidebar = document.getElementById('sidebar');
+            var mainContent = document.getElementById('main-content');
+            if (sidebar.style.width === '250px') {
+                sidebar.style.width = '0';
+                mainContent.style.marginRight = '0';
+            } else {
+                sidebar.style.width = '250px';
+                mainContent.style.marginRight = '250px';
+            }
+        }
+
+        function toggleSubMenu() {
+            var subMenu = document.getElementById('sub-menu');
+            if (subMenu.style.display === 'none') {
+                subMenu.style.display = 'block';
+            } else {
+                subMenu.style.display = 'none';
+            }
+        }
+</script>
